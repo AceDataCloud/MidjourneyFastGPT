@@ -81,7 +81,7 @@ const batchHandler = createToolHandler({
 export default defineToolSet({
   manifest: {
     pluginId: 'acedataMidjourney',
-    version: '0.2.0',
+    version: '0.2.1',
     name: { en: 'Ace Data Cloud Midjourney', 'zh-CN': 'Ace Data Cloud Midjourney 图像' },
     description: {
       en: 'Generate image with Midjourney through Ace Data Cloud and retrieve the same task.',
